@@ -10,6 +10,15 @@ A multi-step activity creation form built with Next.js 14, TypeScript, React Hoo
 - **Styling**: Tailwind CSS
 - **Font**: DM Sans (Google Fonts)
 
+## UI Highlights
+
+- Pixel-aligned layout based on the provided Figma design
+- Sidebar step navigation (Activity Details → Location Details)
+- Custom radio buttons styled with Tailwind
+- Country flag + dial code selector for phone input
+- Responsive layout for desktop and mobile
+- Clean form UI with consistent spacing and typography
+  
 ## Getting Started
 
 ### Prerequisites
@@ -27,7 +36,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open {https://activity-form-mauve.vercel.app/} in your browser.
 
 ## Features
 
